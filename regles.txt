@@ -1,0 +1,12 @@
+regle de la conjecutre de syracuse
+
+prendre un chiffre positif de depart 
+si il est impaire faire x3 + 1
+si il est paire faire /2
+
+le but est de trouver un seul chiffre qui ne forme jamais de boucle
+oui qui ne se termine pas par 1 
+
+si jamais tu reussi (impossible)
+	tu gagne de largent 
+	
